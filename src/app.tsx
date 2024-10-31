@@ -18,7 +18,7 @@ export function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/app.tsx</code> and save to test HMR
+          Edit <code>src/app.tsx</code> and save to test HMR1111
         </p>
       </div>
       <p>
